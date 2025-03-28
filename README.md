@@ -5,7 +5,7 @@ Programador front end,HTML e CSS iniciando aprendizado de java script
 <img src="https://tse2.mm.bing.net/th?id=OIP.q9ECjO67nBf6LEDzIQ29PAAAAA&pid=Api&P=0&h=180" alt=imagem logo css/>
 
 [![wlad10-lima stats](https://github-readme-stats.vercel.app/api?username=Wlad10-lima)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wlad10-lima)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
