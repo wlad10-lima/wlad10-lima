@@ -1,4 +1,7 @@
 ## Hi there 👋
+Programador front end,HTML e CSS iniciando aprendizado de java script
+
+<img crc="https://tse2.mm.bing.net/th?id=OIP.M2RhJA-fG3PTZE2mLznftwHaEK&pid=Api&P=0&h=180" alt="html css java sript"/>
 
 <!--
 **wlad10-lima/wlad10-lima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
