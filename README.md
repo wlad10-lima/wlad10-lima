@@ -2,6 +2,7 @@
 Programador front end,HTML e CSS iniciando aprendizado de java script
 
 <img crc="https://tse2.mm.bing.net/th?id=OIP.M2RhJA-fG3PTZE2mLznftwHaEK&pid=Api&P=0&h=180" alt="html css java sript"/>
+<script src="https://gist.github.com/jhrcook/5238fb7a7782db8bcb10c8d531fe9d38.js"></script>
 
 <!--
 **wlad10-lima/wlad10-lima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
