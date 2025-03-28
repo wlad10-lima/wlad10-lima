@@ -1,8 +1,16 @@
 ## Hi there 👋
 Programador front end,HTML e CSS iniciando aprendizado de java script
 
-<img crc="https://tse2.mm.bing.net/th?id=OIP.M2RhJA-fG3PTZE2mLznftwHaEK&pid=Api&P=0&h=180" alt="html css java sript"/>
-<script src="https://gist.github.com/jhrcook/5238fb7a7782db8bcb10c8d531fe9d38.js"></script>
+<img src="https://tse2.mm.bing.net/th?id=OIP.Gua6TwV8vEMMUCIEtgY4rQHaEc&pid=Api&P=0&h=180" alt="imagem logo html"/>
+<img src="https://tse2.mm.bing.net/th?id=OIP.q9ECjO67nBf6LEDzIQ29PAAAAA&pid=Api&P=0&h=180" alt=imagem logo css/>
+
+[![wlad10-lima stats](https://github-readme-stats.vercel.app/api?username=Wlad10-lima)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+
+
 
 <!--
 **wlad10-lima/wlad10-lima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
